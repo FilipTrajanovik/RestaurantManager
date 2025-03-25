@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Infrastructure\bin\Debug\net8.0\cafeManagement.Repository.deps.json
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Infrastructure\bin\Debug\net8.0\cafeManagement.Repository.runtimeconfig.json
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Infrastructure\bin\Debug\net8.0\cafeManagement.Repository.dll
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Infrastructure\bin\Debug\net8.0\cafeManagement.Repository.pdb
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Infrastructure\bin\Debug\net8.0\CafeManagement.Domain.dll
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Infrastructure\bin\Debug\net8.0\CafeManagement.Domain.pdb
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Infrastructure\obj\Debug\net8.0\cafeManagement.Repository.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Infrastructure\obj\Debug\net8.0\cafeManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Infrastructure\obj\Debug\net8.0\cafeManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Infrastructure\obj\Debug\net8.0\cafeManagement.Repository.AssemblyInfo.cs
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Infrastructure\obj\Debug\net8.0\cafeManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Infrastructure\obj\Debug\net8.0\cafeMana.CE8C1C0A.Up2Date
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Infrastructure\obj\Debug\net8.0\cafeManagement.Repository.dll
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Infrastructure\obj\Debug\net8.0\refint\cafeManagement.Repository.dll
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Infrastructure\obj\Debug\net8.0\cafeManagement.Repository.pdb
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Infrastructure\obj\Debug\net8.0\cafeManagement.Repository.genruntimeconfig.cache
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Infrastructure\obj\Debug\net8.0\ref\cafeManagement.Repository.dll

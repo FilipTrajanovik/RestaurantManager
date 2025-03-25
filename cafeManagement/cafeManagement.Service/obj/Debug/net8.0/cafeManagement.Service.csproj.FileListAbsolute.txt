@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Service\bin\Debug\net8.0\cafeManagement.Service.deps.json
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Service\bin\Debug\net8.0\cafeManagement.Service.dll
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Service\bin\Debug\net8.0\cafeManagement.Service.pdb
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Service\obj\Debug\net8.0\cafeManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Service\obj\Debug\net8.0\cafeManagement.Service.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Service\obj\Debug\net8.0\cafeManagement.Service.AssemblyInfo.cs
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Service\obj\Debug\net8.0\cafeManagement.Service.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Service\obj\Debug\net8.0\cafeManagement.Service.dll
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Service\obj\Debug\net8.0\refint\cafeManagement.Service.dll
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Service\obj\Debug\net8.0\cafeManagement.Service.pdb
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Service\obj\Debug\net8.0\ref\cafeManagement.Service.dll
