@@ -142,6 +142,12 @@ namespace cafeManagement.Repository.Migrations
                     b.Property<string>("PasswordHash")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("RestorauntLocation")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("RestorauntName")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Username")
                         .HasColumnType("nvarchar(max)");
 

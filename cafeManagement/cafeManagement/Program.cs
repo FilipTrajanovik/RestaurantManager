@@ -1,5 +1,11 @@
 
+using cafeManagement.Application.application.Implementation;
+using cafeManagement.Application.application.Interfaces;
 using cafeManagement.Repository;
+using cafeManagement.Repository.Implementation;
+using cafeManagement.Repository.Interfaces;
+using cafeManagement.Service.domain.Implementation;
+using cafeManagement.Service.domain.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
 namespace cafeManagement
@@ -15,12 +21,16 @@ namespace cafeManagement
             builder.Services.AddDbContext<ApplicationContext>(options =>
              options.UseSqlServer(builder.Configuration.GetConnectionString(connectionString)));
             // Add services to the container.
-
+            
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
-            
+
+            builder.Services.AddScoped<IAdminAppService, AdminAppService>();
+            builder.Services.AddScoped<IAdminService, AdminService>();
+            builder.Services.AddScoped<IAdminRepository, AdminRepository>();
+
 
             var app = builder.Build();
 

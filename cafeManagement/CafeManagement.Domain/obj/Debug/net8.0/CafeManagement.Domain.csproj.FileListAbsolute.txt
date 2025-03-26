@@ -9,3 +9,4 @@ C:\Users\HP\Desktop\cafeManagement\cafeManagement\CafeManagement.Domain\obj\Debu
 C:\Users\HP\Desktop\cafeManagement\cafeManagement\CafeManagement.Domain\obj\Debug\net8.0\refint\CafeManagement.Domain.dll
 C:\Users\HP\Desktop\cafeManagement\cafeManagement\CafeManagement.Domain\obj\Debug\net8.0\CafeManagement.Domain.pdb
 C:\Users\HP\Desktop\cafeManagement\cafeManagement\CafeManagement.Domain\obj\Debug\net8.0\ref\CafeManagement.Domain.dll
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\CafeManagement.Domain\obj\Debug\net8.0\CafeManagement.Domain.sourcelink.json

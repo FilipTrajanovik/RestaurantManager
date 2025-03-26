@@ -13,8 +13,13 @@ namespace CafeManagement.Domain.Models
         public Guid id { get; set; }
         public string? Username { get; set; }
         public string? PasswordHash { get; set; }
+
+        public string? RestorauntName { get; set; }
+        public string? RestorauntLocation { get; set; }
+
         public Menu? Menu { get; set; }
         public List<Table>? Tables { get; set; }
         public List<Waiter>? Waiters { get; set; }
+        
     }
 }

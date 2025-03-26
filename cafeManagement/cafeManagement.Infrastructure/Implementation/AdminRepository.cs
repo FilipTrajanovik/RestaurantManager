@@ -21,5 +21,12 @@ namespace cafeManagement.Repository.Implementation
         {
             return await _context.RestorauntManagers.ToListAsync();
         }
+
+        public async Task<RestorauntManager> Save(RestorauntManager restorauntManager)
+        {   
+            await _context.RestorauntManagers.AddAsync(restorauntManager);
+            await _context.SaveChangesAsync();
+            return restorauntManager;
+        }
     }
 }

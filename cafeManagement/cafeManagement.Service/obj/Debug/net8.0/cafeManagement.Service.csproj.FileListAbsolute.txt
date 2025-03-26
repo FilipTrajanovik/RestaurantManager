@@ -9,3 +9,10 @@ C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Service\obj\Deb
 C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Service\obj\Debug\net8.0\refint\cafeManagement.Service.dll
 C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Service\obj\Debug\net8.0\cafeManagement.Service.pdb
 C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Service\obj\Debug\net8.0\ref\cafeManagement.Service.dll
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Service\bin\Debug\net8.0\CafeManagement.Domain.dll
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Service\bin\Debug\net8.0\cafeManagement.Repository.dll
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Service\bin\Debug\net8.0\CafeManagement.Domain.pdb
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Service\bin\Debug\net8.0\cafeManagement.Repository.pdb
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Service\obj\Debug\net8.0\cafeManagement.Service.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Service\obj\Debug\net8.0\cafeManagement.Service.sourcelink.json
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement.Service\obj\Debug\net8.0\cafeMana.FE19F7EC.Up2Date

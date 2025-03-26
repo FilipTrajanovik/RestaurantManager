@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CafeManagement.Domain\CafeManagement.Domain.csproj" />
+    <ProjectReference Include="..\cafeManagement.Service\cafeManagement.Service.csproj" />
+  </ItemGroup>
+
 </Project>

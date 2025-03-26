@@ -1,5 +1,31 @@
 [
   {
+    "ContainingType": "cafeManagement.API.Controllers.AdminController",
+    "Method": "GetAllManagers",
+    "RelativePath": "api/admin/allManagers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "cafeManagement.API.Controllers.AdminController",
+    "Method": "CreateManager",
+    "RelativePath": "api/admin/create-manager",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createManagerDto",
+        "Type": "CafeManagement.Application.DTO.CreateManagerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "cafeManagement.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

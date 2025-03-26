@@ -174,3 +174,8 @@ C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement\bin\Debug\net8.
 C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement\bin\Debug\net8.0\cafeManagement.Repository.dll
 C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement\bin\Debug\net8.0\cafeManagement.Repository.pdb
 C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement\bin\Debug\net8.0\CafeManagement.Domain.pdb
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement\obj\Debug\net8.0\cafeManagement.API.sourcelink.json
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement\bin\Debug\net8.0\cafeManagement.Application.dll
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement\bin\Debug\net8.0\cafeManagement.Service.dll
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement\bin\Debug\net8.0\cafeManagement.Application.pdb
+C:\Users\HP\Desktop\cafeManagement\cafeManagement\cafeManagement\bin\Debug\net8.0\cafeManagement.Service.pdb

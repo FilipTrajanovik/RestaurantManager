@@ -10,5 +10,6 @@ namespace cafeManagement.Repository.Interfaces
     public interface IAdminRepository
     {
         Task<List<RestorauntManager>> GetAllRestorauntManagers();
+        Task<RestorauntManager> Save(RestorauntManager restorauntManager);
     }
 }
